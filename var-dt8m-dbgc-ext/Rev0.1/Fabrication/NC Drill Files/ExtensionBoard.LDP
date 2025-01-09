@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\Bithauer\Arbeitsplatz\Projekte\Variscite Extension Boards\var-dt8m-dbgc-ext\ExtensionBoard.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=extensionboard-roundholes.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=extensionboard-slotholes.txt|DrillLayers=gtl,gp1,gp2,gbl
