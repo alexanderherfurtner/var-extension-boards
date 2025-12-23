@@ -111,7 +111,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=APPTXYQN
+DocumentUniqueId=WXTXTDWK
 
 [Document5]
 DocumentPath=..\Components\Libraries\0603YC104K4T4A\CAPC1608X90N.PcbLib
@@ -145,7 +145,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SDWVBYAZ
+DocumentUniqueId=QZTTANMK
 
 [Document7]
 DocumentPath=..\Components\Libraries\10103592_0001LF\10103592-0001LF\AMPHENOL_10103592-0001LF.PcbLib
@@ -165,40 +165,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document8]
-DocumentPath=..\Components\Libraries\BAT54C\BAT54C.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MCHOJLCI
-
-[Document9]
-DocumentPath=..\Components\Libraries\BAT54C\SOT23-R.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document10]
 DocumentPath=..\Components\Libraries\DS04_254_2_01BK_SMT\DS04-254-2-01BK-SMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -213,9 +179,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ZSQLYSAX
+DocumentUniqueId=CDZWEEYA
 
-[Document11]
+[Document9]
 DocumentPath=..\Components\Libraries\DS04_254_2_01BK_SMT\SW_DS04-254-2-01BK-SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -232,7 +198,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document12]
+[Document10]
 DocumentPath=..\Components\Libraries\FDV301N\FDV301N.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -247,9 +213,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BGXILRSQ
+DocumentUniqueId=GMBJBADX
 
-[Document13]
+[Document11]
 DocumentPath=..\Components\Libraries\FDV301N\SOT95P237X111-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -266,7 +232,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=..\Components\Libraries\FT230XQ_R\FT230XQ-R\FT230XQ-R.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -283,7 +249,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=..\Components\Libraries\FT230XQ_R\FT230XQ-R\FT230XQ-R.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -298,9 +264,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KNMUOWGD
+DocumentUniqueId=QEIHFIKB
 
-[Document16]
+[Document14]
 DocumentPath=..\Components\Libraries\LMK107BJ475KAHT\CAPC1608X90N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -317,7 +283,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document17]
+[Document15]
 DocumentPath=..\Components\Libraries\LMK107BJ475KAHT\LMK107BJ475KAHT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -332,9 +298,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BICNZDCJ
+DocumentUniqueId=NKHVPYCZ
 
-[Document18]
+[Document16]
 DocumentPath=..\Components\Libraries\MI0805K601R_10\FB_MI0805K601R-10.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -351,7 +317,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document19]
+[Document17]
 DocumentPath=..\Components\Libraries\MI0805K601R_10\MI0805K601R-10.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -366,43 +332,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GWFVOXBT
+DocumentUniqueId=DUNGRSQZ
 
-[Document20]
-DocumentPath=..\Components\Libraries\QBLP595-IG\QBLP595-IG\QBLP595-IG.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document21]
-DocumentPath=..\Components\Libraries\QBLP595-IG\QBLP595-IG\QBLP595-IG.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=UXSNQGIZ
-
-[Document22]
+[Document18]
 DocumentPath=..\Components\Libraries\RMCF0603JT10K0\RMCF0603JT10K0\RESC1508X55N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -419,7 +351,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document19]
 DocumentPath=..\Components\Libraries\RMCF0603JT10K0\RMCF0603JT10K0\RMCF0603JT10K0.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -434,9 +366,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BDWHHJQL
+DocumentUniqueId=WMASMNXU
 
-[Document24]
+[Document20]
 DocumentPath=..\Components\Libraries\RS2BE_20_G_SMT\RS2BE-20-G-SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -453,7 +385,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document25]
+[Document21]
 DocumentPath=..\Components\Libraries\RS2BE_20_G_SMT\RS2BE-20-G-SMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -468,9 +400,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WNOAJVBO
+DocumentUniqueId=KODFNAYT
 
-[Document26]
+[Document22]
 DocumentPath=..\Components\Libraries\SML_D12P8WT86\LED_SML-D12P8WT86.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -487,7 +419,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document27]
+[Document23]
 DocumentPath=..\Components\Libraries\SML_D12P8WT86\SML-D12P8WT86.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -502,9 +434,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WBIJNWPI
+DocumentUniqueId=EOYNJZLJ
 
-[Document28]
+[Document24]
 DocumentPath=..\Components\Libraries\SN74AVC4T245RGYR\SN74AVC4T245RGYR\QFN50P400X350X100-17N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -521,7 +453,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GGPXKSET
 
-[Document29]
+[Document25]
 DocumentPath=..\Components\Libraries\SN74AVC4T245RGYR\SN74AVC4T245RGYR\SN74AVC4T245RGYR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -536,9 +468,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VZVMWZVO
+DocumentUniqueId=EEECAWNP
 
-[Document30]
+[Document26]
 DocumentPath=..\Components\Libraries\TPD2EUSB30ADRTR\SOTFL35P100X50-3N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -555,7 +487,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document31]
+[Document27]
 DocumentPath=..\Components\Libraries\TPD2EUSB30ADRTR\TPD2EUSB30ADRTR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -570,9 +502,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LPPMVMOT
+DocumentUniqueId=TXPWZFQW
 
-[Document32]
+[Document28]
 DocumentPath=..\Components\Libraries\TS3A24157RSER\AltiumDesigner\TS3A24157RSER.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -589,7 +521,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document33]
+[Document29]
 DocumentPath=..\Components\Libraries\TS3A24157RSER\AltiumDesigner\TS3A24157RSER.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -604,9 +536,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GGGJTANV
+DocumentUniqueId=EDNYVGKH
 
-[Document34]
+[Document30]
 DocumentPath=..\Components\Libraries\TSM-110-01-F-DV\SAMTEC_TSM-110-01-F-DV.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -623,7 +555,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document35]
+[Document31]
 DocumentPath=..\Components\Libraries\TSM-110-01-F-DV\TSM-110-01-F-DV.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -638,9 +570,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KRRTEUTY
+DocumentUniqueId=ROVOLCXJ
 
-[Document36]
+[Document32]
 DocumentPath=Documentation.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -656,6 +588,40 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document33]
+DocumentPath=..\Components\Libraries\QBLP595-IG5\QBL595-IG5.PCBLIB
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JOISBPHF
+
+[Document34]
+DocumentPath=..\Components\Libraries\QBLP595-IG5\QBLP595-IG5.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HIRALERL
 
 [Configuration1]
 Name=Sources
@@ -1612,90 +1578,90 @@ ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=0603YC104K4T4A.SchLib
 ComponentDesignItemID0=0603YC104K4T4A
 ComponentSymbolReference0=0603YC104K4T4A
-ComponentUpdate0=1
+ComponentUpdate0=0
 ComponentIsDeviceSheet0=0
 ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=10118194-0001LF.SchLib
-ComponentDesignItemID1=10118194-0001LF
-ComponentSymbolReference1=10118194-0001LF
-ComponentUpdate1=1
+ComponentLibraryIdentifier1=10103592-0001LF.SchLib
+ComponentDesignItemID1=10103592-0001LF
+ComponentSymbolReference1=10103592-0001LF
+ComponentUpdate1=0
 ComponentIsDeviceSheet1=0
 ComponentLibIdentifierKind2=Library Name And Type
 ComponentLibraryIdentifier2=DS04-254-2-01BK-SMT.SchLib
 ComponentDesignItemID2=DS04-254-2-01BK-SMT
 ComponentSymbolReference2=DS04-254-2-01BK-SMT
-ComponentUpdate2=1
+ComponentUpdate2=0
 ComponentIsDeviceSheet2=0
 ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=FT230XS-R.SchLib
-ComponentDesignItemID3=FT230XS-R
-ComponentSymbolReference3=FT230XS-R
-ComponentUpdate3=1
+ComponentLibraryIdentifier3=FT230XQ-R.SchLib
+ComponentDesignItemID3=FT230XQ-R
+ComponentSymbolReference3=FT230XQ-R
+ComponentUpdate3=0
 ComponentIsDeviceSheet3=0
 ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=LMK107BJ475KA-T.SchLib
-ComponentDesignItemID4=LMK107BJ475KA-T
-ComponentSymbolReference4=LMK107BJ475KA-T
-ComponentUpdate4=1
+ComponentLibraryIdentifier4=LMK107BJ475KAHT.SchLib
+ComponentDesignItemID4=LMK107BJ475KAHT
+ComponentSymbolReference4=LMK107BJ475KAHT
+ComponentUpdate4=0
 ComponentIsDeviceSheet4=0
 ComponentLibIdentifierKind5=Library Name And Type
 ComponentLibraryIdentifier5=MI0805K601R-10.SchLib
 ComponentDesignItemID5=MI0805K601R-10
 ComponentSymbolReference5=MI0805K601R-10
-ComponentUpdate5=1
+ComponentUpdate5=0
 ComponentIsDeviceSheet5=0
 ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=RMCF1206JT10K0.SchLib
-ComponentDesignItemID6=RMCF1206JT10K0
-ComponentSymbolReference6=RMCF1206JT10K0
-ComponentUpdate6=1
+ComponentLibraryIdentifier6=QBLP595-IG.SchLib
+ComponentDesignItemID6=QTB-LED-0042
+ComponentSymbolReference6=QTB-LED-0042
+ComponentUpdate6=0
 ComponentIsDeviceSheet6=0
 ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=RS2BE-20-G-SMT.SchLib
-ComponentDesignItemID7=RS2BE-20-G-SMT
-ComponentSymbolReference7=RS2BE-20-G-SMT
+ComponentLibraryIdentifier7=RMCF0603JT10K0.SchLib
+ComponentDesignItemID7=RMCF0603JT10K0
+ComponentSymbolReference7=RMCF0603JT10K0
 ComponentUpdate7=1
 ComponentIsDeviceSheet7=0
 ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=SN74AVC4T245PWR.SchLib
-ComponentDesignItemID8=SN74AVC4T245PWR
-ComponentSymbolReference8=SN74AVC4T245PWR
-ComponentUpdate8=1
+ComponentLibraryIdentifier8=RS2BE-20-G-SMT.SchLib
+ComponentDesignItemID8=RS2BE-20-G-SMT
+ComponentSymbolReference8=RS2BE-20-G-SMT
+ComponentUpdate8=0
 ComponentIsDeviceSheet8=0
 ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=TPD2EUSB30ADRTR.SchLib
-ComponentDesignItemID9=TPD2EUSB30ADRTR
-ComponentSymbolReference9=TPD2EUSB30ADRTR
-ComponentUpdate9=1
+ComponentLibraryIdentifier9=SN74AVC4T245RGYR.SchLib
+ComponentDesignItemID9=SN74AVC4T245RGYR
+ComponentSymbolReference9=SN74AVC4T245RGYR
+ComponentUpdate9=0
 ComponentIsDeviceSheet9=0
 ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=TS3A24157DGSR.SchLib
-ComponentDesignItemID10=TS3A24157DGSR
-ComponentSymbolReference10=TS3A24157DGSR
-ComponentUpdate10=1
+ComponentLibraryIdentifier10=TPD2EUSB30ADRTR.SchLib
+ComponentDesignItemID10=TPD2EUSB30ADRTR
+ComponentSymbolReference10=TPD2EUSB30ADRTR
+ComponentUpdate10=0
 ComponentIsDeviceSheet10=0
 ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=TSM-110-01-F-DV.SchLib
-ComponentDesignItemID11=TSM-110-01-F-DV
-ComponentSymbolReference11=TSM-110-01-F-DV
-ComponentUpdate11=1
+ComponentLibraryIdentifier11=TS3A24157RSER.SchLib
+ComponentDesignItemID11=TS3A24157RSER
+ComponentSymbolReference11=TS3A24157RSER
+ComponentUpdate11=0
 ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name Only
-ComponentLibraryIdentifier12=Alexander Herfurtner (Einzelunternehmen)
-ComponentDesignItemID12=CMP-007-00041-2
-ComponentSymbolReference12=LED-KA-2
-ComponentUpdate12=1
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=TSM-110-01-F-DV.SchLib
+ComponentDesignItemID12=TSM-110-01-F-DV
+ComponentSymbolReference12=TSM-110-01-F-DV
+ComponentUpdate12=0
 ComponentIsDeviceSheet12=0
-FullReplace=1
-UpdateDesignatorLock=1
-UpdatePartIDLock=1
+FullReplace=0
+UpdateDesignatorLock=0
+UpdatePartIDLock=0
 PreserveParameterLocations=1
 PreserveParameterVisibility=1
 DoGraphics=1
-DoParameters=1
-DoModels=1
+DoParameters=0
+DoModels=0
 AddParameters=0
-RemoveParameters=0
+RemoveParameters=1
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
@@ -1703,58 +1669,98 @@ ParameterName0=Arrow_Electronics-Purchase-URL
 ParameterUpdate0=1
 ParameterName1=Availability
 ParameterUpdate1=1
-ParameterName2=Case/Package
+ParameterName2=Case Code (Imperial)
 ParameterUpdate2=1
-ParameterName3=Check_prices
+ParameterName3=Case Code (Metric)
 ParameterUpdate3=1
-ParameterName4=Colour
+ParameterName4=Case/Package
 ParameterUpdate4=1
-ParameterName5=Comment
+ParameterName5=Check_prices
 ParameterUpdate5=1
-ParameterName6=Component Kind
+ParameterName6=Color
 ParameterUpdate6=1
-ParameterName7=CUI_purchase_URL
-ParameterUpdate7=1
-ParameterName8=Description
+ParameterName7=Comment
+ParameterUpdate7=0
+ParameterName8=Component Kind
 ParameterUpdate8=1
-ParameterName9=DigiKey-Purchase-URL
+ParameterName9=ComponentLink1Description
 ParameterUpdate9=1
-ParameterName10=Library Reference
+ParameterName10=ComponentLink1URL
 ParameterUpdate10=1
-ParameterName11=MF
+ParameterName11=ComponentLink2Description
 ParameterUpdate11=1
-ParameterName12=Mfr_Name
+ParameterName12=ComponentLink2URL
 ParameterUpdate12=1
-ParameterName13=Mounting Technology
+ParameterName13=CUI_purchase_URL
 ParameterUpdate13=1
-ParameterName14=Mouser-Purchase-URL
+ParameterName14=Description
 ParameterUpdate14=1
-ParameterName15=MP
+ParameterName15=Digi-Key_Part_Number
 ParameterUpdate15=1
-ParameterName16=Package
+ParameterName16=DigiKey-Purchase-URL
 ParameterUpdate16=1
-ParameterName17=Pins
+ParameterName17=Dominant Wavelength
 ParameterUpdate17=1
-ParameterName18=Price
+ParameterName18=Forward Voltage
 ParameterUpdate18=1
-ParameterName19=Purchase-URL
+ParameterName19=Height
 ParameterUpdate19=1
-ParameterName20=RefDes
+ParameterName20=Length
 ParameterUpdate20=1
-ParameterName21=RoHS Compliant
+ParameterName21=Lens Color
 ParameterUpdate21=1
-ParameterName22=SnapEDA_Link
+ParameterName22=Lens Size
 ParameterUpdate22=1
-ParameterName23=Texas_Instruments-Purchase-URL
+ParameterName23=Lens Style
 ParameterUpdate23=1
-ParameterName24=Type
+ParameterName24=Lens Transparency
 ParameterUpdate24=1
-ParameterName25=Value
+ParameterName25=Library Reference
 ParameterUpdate25=1
+ParameterName26=Luminous Intensity
+ParameterUpdate26=1
+ParameterName27=Manufacturer
+ParameterUpdate27=1
+ParameterName28=Manufacturer Part Number
+ParameterUpdate28=1
+ParameterName29=MF
+ParameterUpdate29=1
+ParameterName30=Mfr_Name
+ParameterUpdate30=1
+ParameterName31=Mount
+ParameterUpdate31=1
+ParameterName32=Mouser-Purchase-URL
+ParameterUpdate32=1
+ParameterName33=MP
+ParameterUpdate33=1
+ParameterName34=Package
+ParameterUpdate34=1
+ParameterName35=Packaging
+ParameterUpdate35=1
+ParameterName36=Price
+ParameterUpdate36=1
+ParameterName37=Purchase-URL
+ParameterUpdate37=1
+ParameterName38=RefDes
+ParameterUpdate38=1
+ParameterName39=SnapEDA_Link
+ParameterUpdate39=1
+ParameterName40=Test Current
+ParameterUpdate40=1
+ParameterName41=Texas_Instruments-Purchase-URL
+ParameterUpdate41=1
+ParameterName42=Type
+ParameterUpdate42=1
+ParameterName43=Value
+ParameterUpdate43=0
+ParameterName44=Viewing Angle
+ParameterUpdate44=1
+ParameterName45=Width
+ParameterUpdate45=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=AMPHENOL_10118194-0001LF
+ModelName0=AMPHENOL_10103592-0001LF
 ModelUpdate0=1
 ModelType1=PCBLIB
 ModelName1=CAPC1608X90N
@@ -1763,25 +1769,25 @@ ModelType2=PCBLIB
 ModelName2=CONN_RS2BE-20-G-SMT_ADM
 ModelUpdate2=1
 ModelType3=PCBLIB
-ModelName3=DGS10
+ModelName3=FB_MI0805K601R-10
 ModelUpdate3=1
 ModelType4=PCBLIB
-ModelName4=FB_MI0805K601R-10
+ModelName4=FP-QBLP595-IG-MFG
 ModelUpdate4=1
 ModelType5=PCBLIB
-ModelName5=QTB-QBLP595_V
+ModelName5=QFN50P400X350X100-17N
 ModelUpdate5=1
 ModelType6=PCBLIB
-ModelName6=RESC3216X70N
+ModelName6=QFN65P400X400X80-17N
 ModelUpdate6=1
 ModelType7=PCBLIB
-ModelName7=SAMTEC_TSM-110-01-F-DV
+ModelName7=RESC1508X55N
 ModelUpdate7=1
 ModelType8=PCBLIB
-ModelName8=SOIC_30XS-R_FTD
+ModelName8=RSE10
 ModelUpdate8=1
 ModelType9=PCBLIB
-ModelName9=SOP65P640X120-16N
+ModelName9=SAMTEC_TSM-110-01-F-DV
 ModelUpdate9=1
 ModelType10=PCBLIB
 ModelName10=SOTFL35P100X50-3N
